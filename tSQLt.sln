@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "tSQLt", "tSQLt\tSQLt.sqlproj", "{66D2AFA7-564E-4D3A-B54E-66F657E8D80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D2AFA7-564E-4D3A-B54E-66F657E8D80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D2AFA7-564E-4D3A-B54E-66F657E8D80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D2AFA7-564E-4D3A-B54E-66F657E8D80B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{66D2AFA7-564E-4D3A-B54E-66F657E8D80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D2AFA7-564E-4D3A-B54E-66F657E8D80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D2AFA7-564E-4D3A-B54E-66F657E8D80B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6ED9B92-F0D4-4997-A1E2-7E4B8B48C990}
+	EndGlobalSection
+EndGlobal
